@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modexonia:blocks/exonium_ore",
+    "up": "modexonia:blocks/exonium_ore",
+    "north": "modexonia:blocks/exonium_ore",
+    "east": "modexonia:blocks/exonium_ore",
+    "south": "modexonia:blocks/exonium_ore",
+    "west": "modexonia:blocks/exonium_ore",
+    "particle": "modexonia:blocks/exonium_ore"
+  }
+}

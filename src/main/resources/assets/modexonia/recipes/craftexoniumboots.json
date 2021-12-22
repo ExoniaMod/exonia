@@ -1,0 +1,26 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:exoniumingot"
+    },
+    "2": {
+      "item": "modexonia:exoniumingot"
+    },
+    "3": {
+      "item": "modexonia:exoniumingot"
+    },
+    "5": {
+      "item": "modexonia:exoniumingot"
+    }
+  },
+  "result": {
+    "item": "modexonia:exoniumarmorboots",
+    "count": 1
+  }
+}

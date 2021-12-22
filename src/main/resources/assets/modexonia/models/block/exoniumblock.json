@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modexonia:blocks/xonium_block",
+    "particle": "modexonia:blocks/xonium_block"
+  }
+}

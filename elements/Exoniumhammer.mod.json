@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammerexonium",
+    "customModelName": "Normal",
+    "name": "Exoniumhammer",
+    "creativeTab": {
+      "value": "CUSTOM:ExoniumStuff"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onBlockDestroyedWithTool": {
+      "name": "ExoniumhammerBlockDestroyedWithToold"
+    }
+  }
+}

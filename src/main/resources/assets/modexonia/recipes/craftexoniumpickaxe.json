@@ -1,0 +1,30 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:exoniumingot"
+    },
+    "1": {
+      "item": "modexonia:exoniumingot"
+    },
+    "2": {
+      "item": "modexonia:exoniumingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "modexonia:exoniumtools",
+    "count": 1
+  }
+}
